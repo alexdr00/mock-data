@@ -1,0 +1,22 @@
+{
+    "movies": [{"id":1,"title":"Impulse","genre":"Mystery|Thriller","cover":"http://dummyimage.com/500x500.png/dddddd/000000"},
+        {"id":2,"title":"Black Peter (Cerný Petr)","genre":"Drama","cover":"http://dummyimage.com/500x500.png/dddddd/000000"},
+        {"id":3,"title":"School Daze","genre":"Drama","cover":"http://dummyimage.com/500x500.png/dddddd/000000"},
+        {"id":4,"title":"Two Kilers (Kilerów 2-óch)","genre":"Comedy|Crime","cover":"http://dummyimage.com/500x500.png/ff4444/ffffff"},
+        {"id":5,"title":"Mother's Courage: Talking Back to Autism, A","genre":"Documentary","cover":"http://dummyimage.com/500x500.png/ff4444/ffffff"},
+        {"id":6,"title":"Negotiator, The","genre":"Action|Crime|Drama|Mystery|Thriller","cover":"http://dummyimage.com/500x500.png/cc0000/ffffff"},
+        {"id":7,"title":"Outlaw Josey Wales, The","genre":"Action|Adventure|Drama|Thriller|Western","cover":"http://dummyimage.com/500x500.png/dddddd/000000"},
+        {"id":8,"title":"Coogan's Bluff","genre":"Crime","cover":"http://dummyimage.com/500x500.png/5fa2dd/ffffff"},
+        {"id":9,"title":"Carlito's Way","genre":"Crime|Drama","cover":"http://dummyimage.com/500x500.png/cc0000/ffffff"},
+        {"id":10,"title":"Efectos secundarios","genre":"Comedy","cover":"http://dummyimage.com/500x500.png/ff4444/ffffff"},
+        {"id":11,"title":"On Our Merry Way","genre":"Comedy|Drama","cover":"http://dummyimage.com/500x500.png/cc0000/ffffff"},
+        {"id":12,"title":"It's Christmastime Again, Charlie Brown","genre":"Animation","cover":"http://dummyimage.com/500x500.png/ff4444/ffffff"},
+        {"id":13,"title":"Eight Legged Freaks","genre":"Action|Comedy|Horror|Sci-Fi","cover":"http://dummyimage.com/500x500.png/ff4444/ffffff"},
+        {"id":14,"title":"Next Man, The","genre":"Action|Thriller","cover":"http://dummyimage.com/500x500.png/5fa2dd/ffffff"},
+        {"id":15,"title":"Bye-Bye Bin Laden","genre":"Animation|Comedy","cover":"http://dummyimage.com/500x500.png/5fa2dd/ffffff"},
+        {"id":16,"title":"Ladrones","genre":"Drama","cover":"http://dummyimage.com/500x500.png/dddddd/000000"},
+        {"id":17,"title":"Hitting Home","genre":"Drama|Romance|Thriller","cover":"http://dummyimage.com/500x500.png/cc0000/ffffff"},
+        {"id":18,"title":"Everything Relative","genre":"Drama","cover":"http://dummyimage.com/500x500.png/ff4444/ffffff"},
+        {"id":19,"title":"Mikey and Nicky","genre":"Drama","cover":"http://dummyimage.com/500x500.png/ff4444/ffffff"},
+        {"id":20,"title":"Reign of Fire","genre":"Action|Adventure|Fantasy","cover":"http://dummyimage.com/500x500.png/5fa2dd/ffffff"}]
+}
